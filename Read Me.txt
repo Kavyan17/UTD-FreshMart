@@ -1,0 +1,6 @@
+Steps to run the code :
+
+1. Install Node modules by command >. npm i
+2. Install mongodb and connect it with nodejs server.
+3. Start the server by running app.js using command > npm run start 
+4. Go to the webbrowser and type url :http://localhost:9500
